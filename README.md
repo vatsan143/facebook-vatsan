@@ -51,3 +51,4 @@ for feedback in negative_feedback:
 A sentiment analysis project using Facebook data provides valuable learning experiences in data handling, text processing, sentiment analysis, and ethical considerations, while also honing communication, problem-solving, and project management skills. 
 "# facebook-vatsan" 
 "# facebook-vatsan" 
+"# facebook-vatsan" 
